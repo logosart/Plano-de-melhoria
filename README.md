@@ -3,6 +3,8 @@ Aluno: Lucas Souza Araújo
 
 Questões, respostas e explicação:
 
+Usei php com o XAMPP.
+
   <br/>Criar um projeto contendo um destes conteúdos:<br/>
 
 <b>1-Criação e manipulação de um banco de dados</b><br/>
